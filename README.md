@@ -1,5 +1,3 @@
----
-
 ### About Me :
 I am a Begginer Front-End Developer from Russia.
 
