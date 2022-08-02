@@ -4,11 +4,17 @@ _____
 ### About Me :
 I am a Begginer Front-End Developer from Russia.
 
-How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Runaway4uk)
+#### How to reach me:
 
 <div>
   <a href="https://t.me/Runaway4uk">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" alt="Telegram"/>&nbsp;
+  </a>
+  <a href="https://wa.me/+79527606944">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="WhatsApp" alt="WhatsApp"/>&nbsp;
+  </a>
+  <a href="https://vk.com/runaway4uk">
+  <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" title="VK" alt="VK"/>&nbsp;
   </a>
 </div>
 
