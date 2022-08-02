@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/tR1Hy9s9/Header-Git.png" width="1000" height="auto"/>
+  <img src="https://i.postimg.cc/tR1Hy9s9/Header-Git.png" width="1000" height="auto" />
 </div>
 
 _____
@@ -11,13 +11,13 @@ I am a Begginer Front-End Developer from Russia.
 
 <div>
   <a href="https://t.me/Runaway4uk">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" alt="Telegram" height="auto" width="200px"/>&nbsp;
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" alt="Telegram" height="auto" width="200"/>
   </a>
   <a href="https://wa.me/+79527606944">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="WhatsApp" alt="WhatsApp" height="auto" width="205px"/>&nbsp;
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="WhatsApp" alt="WhatsApp" height="auto" width="205"/>
   </a>
   <a href="https://vk.com/runaway4uk">
-  <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" title="VK" alt="VK" height="auto" width="215px"/>&nbsp;
+  <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" title="VK" alt="VK" height="auto" width="215"/>
   </a>
 </div>
 
