@@ -5,7 +5,7 @@
 _____
 
 ## About Me :
-I am a Begginer Front-End Developer from Russia.
+I am a Front-End Developer from Russia.
 
 ### How to reach me:
 
